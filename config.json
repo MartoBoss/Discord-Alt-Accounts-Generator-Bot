@@ -1,5 +1,5 @@
 {
-    "TOKEN": "process.env.TOKEN",
+    "TOKEN": "PUT YOUR TOKEN HERE",
     "PREFIX": "$",
     "COOLDOWN": "5"
 }
