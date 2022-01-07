@@ -1,12 +1,12 @@
 {
-  "name": "LinkGen",
+  "name": "C-GEN",
   "version": "1.0.0",
   "description": "Generator Bot!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Snikker#1337",
+  "author": "$MartoBossX#7777",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0",
